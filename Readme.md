@@ -11,6 +11,7 @@ First, you'll need two arguments:
 2. The open port
 and execute:
 `$ ./DoS <ip> <port>`
+
 if you don't use this arguments this message will appear:
 `[!] Error by -> too few args!`
 
